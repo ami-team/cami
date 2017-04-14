@@ -24,7 +24,8 @@ int main(int argc, char **argv)
 	   AMIHost == NULL
 	 ) {
 		std::cerr << "Environment variable 'AMIUser' and/or 'AMIPass' and/or 'AMIHost' not defined"
-		          << std::endl;
+		          << std::endl
+		;
 
 		return 1;
 	}
