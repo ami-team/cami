@@ -18,13 +18,13 @@
 	<img src="http://www.cern.ch/ami/images/logo_atlas.png" alt="ATLAS" height="87" />
 </a>
 
-AMI++
-=====
+CAMI
+====
 
-AMI++ is an AMI C++ client. It was originally developed for the A Toroidal LHC ApparatuS (ATLAS) experiment, one of the two general-purpose detectors at the Large Hadron Collider (LHC).
+CAMI is an AMI C++ client. It was originally developed for the A Toroidal LHC ApparatuS (ATLAS) experiment, one of the two general-purpose detectors at the Large Hadron Collider (LHC).
 
-Installing AMI++
-================
+Installing CAMI
+===============
 
  * Requierments:
 
