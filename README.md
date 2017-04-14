@@ -41,7 +41,7 @@ make test
 make install
 ```
 
-Installed files: `/usr/local/include/amipp.h` and `/usr/local/lib/libamipp.a`.
+Installed files: `/usr/local/include/cami.h` and `/usr/local/lib/libcami.a`.
 
 Example
 =======
